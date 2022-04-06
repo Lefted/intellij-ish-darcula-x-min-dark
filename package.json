@@ -1,19 +1,19 @@
 {
-  "name": "intellij-ish-darcula-theme",
-  "displayName": "IntelliJ-ish Darcula Theme",
-  "description": "A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDE's.",
+  "name": "intellij-ish-darcula-theme-x-min-dark",
+  "displayName": "IntelliJ-ish Darcula-x-Min-Dark Theme",
+  "description": "A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDE's using the background colors from Min-Theme.",
   "version": "1.0.0",
-  "publisher": "csantiago132",
+  "publisher": "Lefted",
   "author": {
-    "name": "Carlos Santiago"
+    "name": "Lefted"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/csantiago132/intellij-ish-darcula-theme.git"
+    "url": "https://github.com/Lefted/intellij-ish-darcula-x-min-dark"
   },
   "bugs": {
-    "url": "https://github.com/csantiago132/intellij-ish-darcula-theme/issues"
+    "url": "https://github.com/Lefted/intellij-ish-darcula-x-min-dark/issues"
   },
   "engines": {
     "vscode": "^1.30.0"
@@ -23,13 +23,13 @@
   "contributes": {
     "themes": [
       {
-        "label": "IntelliJ-ish Darcula",
+        "label": "IntelliJ-ish Darcula-x-Min-Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/IntelliJ-ish Darcula-color-theme.json"
+        "path": "./themes/IntelliJ-ish Darcula-x-Min-Dark-color-theme.json"
       }
     ]
   },
-  "keywords": ["intellij-theme", "darcula", "jetbrains ide", "android studio"],
+  "keywords": ["intellij-theme", "darcula", "jetbrains ide", "android studio", "min dark", "min theme"],
   "galleryBanner": {
     "color": "#292B2E",
     "theme": "dark"
