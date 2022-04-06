@@ -9,14 +9,14 @@ Please checkout the original themes and their creators:
 ## Examples
 ##### IntelliJ-ish Darcula-x-Min-Dark
 
-![IntelliJ-ish Darcula-x-Min-Dark](https://raw.githubusercontent.com/Lefted/intellij-ish-darcula-x-min-dark/develop/public/images/IntelliJ-ish-Darcula-x-Min-Dark.png)
+![IntelliJ-ish Darcula-x-Min-Dark](https://raw.githubusercontent.com/Lefted/intellij-ish-darcula-x-min-dark/feature/min-dark-bg/public/images/IntelliJ-ish-Darcula-x-Min-Dark.png)
 
 ##### IntelliJ-ish Darcula
 
-![IntelliJ-ish Darcula](https://raw.githubusercontent.com/Lefted/intellij-ish-darcula-x-min-dark/develop/public/images/IntelliJ-ish-Darcula.png)
+![IntelliJ-ish Darcula](https://raw.githubusercontent.com/Lefted/intellij-ish-darcula-x-min-dark/feature/min-dark-bg/public/images/IntelliJ-ish-Darcula.png)
 ##### Min-Dark
 
-![Min-Dark](https://raw.githubusercontent.com/Lefted/intellij-ish-darcula-x-min-dark/develop/public/images/Min-Dark.png)
+![Min-Dark](https://raw.githubusercontent.com/Lefted/intellij-ish-darcula-x-min-dark/feature/min-dark-bg/public/images/Min-Dark.png)
 ## Versioning
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available,
